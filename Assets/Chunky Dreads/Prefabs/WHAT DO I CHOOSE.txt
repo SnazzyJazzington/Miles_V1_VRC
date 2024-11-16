@@ -1,0 +1,2 @@
+Dynamic -> Physbones
+Static -> No Physbones

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MENU
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 368ba235ed523e048b98cfd48a251555, type: 2}
+  controls:
+  - name: Body
+    icon: {fileID: 2800000, guid: f48c0ae44385c7344871a0595a8ed9a4, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d25fd9153daea1d488dd696690881088, type: 2}
+    subParameters: []
+    labels: []
+  - name: Clothing
+    icon: {fileID: 2800000, guid: 71e55c03d2c3f1b4f899ccabcf0d0c38, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0427d036566166240b5f7bda35470196, type: 2}
+    subParameters: []
+    labels: []
+  - name: Props
+    icon: {fileID: 2800000, guid: b963c841751cb6442bc6d13f416b7835, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1a68385456810d041aa5b20c0048f1ee, type: 2}
+    subParameters: []
+    labels: []
+  - name: NSFW
+    icon: {fileID: 2800000, guid: 9c9114c0c03a7d040bc934861e000242, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c76246277ccc20f49843110b8ddc3f7a, type: 2}
+    subParameters: []
+    labels: []

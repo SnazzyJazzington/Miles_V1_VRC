@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Clothes
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: Tops
+    icon: {fileID: 2800000, guid: 71e55c03d2c3f1b4f899ccabcf0d0c38, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d17297463c9fcf44e9d37777a8b6fd25, type: 2}
+    subParameters: []
+    labels: []
+  - name: Bottoms
+    icon: {fileID: 2800000, guid: df1be8a073de083459ae1b8952851fd0, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 97c02e8f29ff1f74bbfe7807581f4cc8, type: 2}
+    subParameters: []
+    labels: []
+  - name: Extras
+    icon: {fileID: 2800000, guid: 137af2ae1de10a7469533dfd659e64e2, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 15c0697cf27d9454c8c3e94091b9b7bf, type: 2}
+    subParameters: []
+    labels: []

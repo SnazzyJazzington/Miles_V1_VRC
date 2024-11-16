@@ -1,0 +1,23 @@
+This package was compiled using Unity 2019.4.31f1, Poyiomi Toon Shader 8.1.166 and VRC Fury v1.435.0.
+This package assumes you have purchased your own copy of Skip4D's Chibi: https://skip4d.gumroad.com/l/chibi
+
+
+::::::::::::::::::::::::::
+::: Quick Installation :::
+::::::::::::::::::::::::::
+
+This package supports easy, drag-and-drop install using VRC Fury: https://github.com/VRCFury/VRCFury/
+
+Dynamic -> Physbones
+Static -> No physbones
+
+1) Install VRC Fury
+2) Drag and drop the correct prefab from "Chunky Dreads/Prefabs/..." directly on top of your avatar's top most game object in the heirarchy
+3) You're done, it's that easy!
+
+
+Contact Krunk#6041 if you have any issues with this proccess.
+	- VRC Fury will automatically synchronize the body blendshapes to your avatar's
+		- Should you need to take control yourself, you can delete the "BlendShape Link" component
+	- All of the properties you'll need to animate are available for quick copying in the "Chunky Dreads/Animations" folder
+	- The included materials make use of normal, metallic, specular and smoothness maps in the "Chunky Dreads/Textures" folder
