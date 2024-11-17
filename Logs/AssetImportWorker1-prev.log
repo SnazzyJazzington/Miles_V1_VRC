@@ -15,7 +15,7 @@ H:/VRC/Miles V1
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-56362
+58822
 Successfully changed project path to: H:/VRC/Miles V1
 H:/VRC/Miles V1
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,13 +49,13 @@ H:/VRC/Miles V1
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [23724] Host "[IP] 192.168.138.203 [Port] 0 [Flags] 2 [Guid] 865231763 [EditorId] 865231763 [Version] 1048832 [Id] WindowsEditor(7,CRYO-CORE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [18908] Host "[IP] 192.168.138.203 [Port] 0 [Flags] 2 [Guid] 4070454520 [EditorId] 4070454520 [Version] 1048832 [Id] WindowsEditor(7,CRYO-CORE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [23724] Host "[IP] 192.168.138.203 [Port] 0 [Flags] 2 [Guid] 865231763 [EditorId] 865231763 [Version] 1048832 [Id] WindowsEditor(7,CRYO-CORE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [18908] Host "[IP] 192.168.138.203 [Port] 0 [Flags] 2 [Guid] 4070454520 [EditorId] 4070454520 [Version] 1048832 [Id] WindowsEditor(7,CRYO-CORE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 23 workers.
-Refreshing native plugins compatible for Editor in 14.15 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.93 ms.
+Refreshing native plugins compatible for Editor in 12.13 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.74 ms.
 Initialize engine version: 2022.3.22f1 (887be4894c44)
 [Subsystems] Discovering subsystems at path H:/Unity/2022.3.22f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path H:/VRC/Miles V1/Assets
@@ -70,44 +70,44 @@ Initialize mono
 Mono path[0] = 'H:/Unity/2022.3.22f1/Editor/Data/Managed'
 Mono path[1] = 'H:/Unity/2022.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'H:/Unity/2022.3.22f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56476
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: H:/Unity/2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001573 seconds.
-- Loaded All Assemblies, in  0.271 seconds
+Registered in 0.001579 seconds.
+- Loaded All Assemblies, in  0.217 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.214 seconds
-Domain Reload Profiling: 484ms
-	BeginReloadAssembly (88ms)
+- Finished resetting the current domain, in  0.177 seconds
+Domain Reload Profiling: 394ms
+	BeginReloadAssembly (71ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (22ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (35ms)
-	LoadAllAssembliesAndSetupDomain (116ms)
-		LoadAssemblies (88ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (87ms)
+		LoadAssemblies (71ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (114ms)
-			TypeCache.Refresh (113ms)
-				TypeCache.ScanAssembly (101ms)
+		AnalyzeDomain (86ms)
+			TypeCache.Refresh (85ms)
+				TypeCache.ScanAssembly (75ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (214ms)
+	FinalizeReload (177ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (168ms)
+		SetupLoadedEditorAssemblies (140ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (5ms)
 			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (110ms)
-			ProcessInitializeOnLoadMethodAttributes (46ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (96ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,8 +115,8 @@ Domain Reload Profiling: 484ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.595 seconds
-Refreshing native plugins compatible for Editor in 4.75 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.423 seconds
+Refreshing native plugins compatible for Editor in 4.90 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
@@ -150,28 +150,6 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 (Filename: ./Packages/com.poiyomi.toon/_PoiyomiShaders/Scripts/ThryEditor/Editor/Presets.cs Line: 678)
 
 DisplayProgressbar: Creating Preset Cache
-System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.IOException: Sharing violation on path H:\VRC\Miles V1\Thry\presets_known_materials.txt
-  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <27124aa0e30a41659b903b822b959bc7>:0 
-  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize) [0x00000] in <27124aa0e30a41659b903b822b959bc7>:0 
-  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int)
-  at System.IO.File.Create (System.String path, System.Int32 bufferSize) [0x00000] in <27124aa0e30a41659b903b822b959bc7>:0 
-  at System.IO.File.Create (System.String path) [0x00000] in <27124aa0e30a41659b903b822b959bc7>:0 
-  at Thry.FileHelper.CreateFileWithDirectories (System.String path) [0x0001b] in .\Packages\com.poiyomi.toon\_PoiyomiShaders\Scripts\ThryEditor\Editor\Helpers\FileHelper.cs:137 
-  at Thry.ThryEditor.Presets+MaterialsList.Save () [0x00008] in .\Packages\com.poiyomi.toon\_PoiyomiShaders\Scripts\ThryEditor\Editor\Presets.cs:79 
-  at Thry.ThryEditor.Presets.CreatePresetCache () [0x0006b] in .\Packages\com.poiyomi.toon\_PoiyomiShaders\Scripts\ThryEditor\Editor\Presets.cs:174 
-  at Thry.ThryEditor.Presets.CheckPresetCache () [0x000c0] in .\Packages\com.poiyomi.toon\_PoiyomiShaders\Scripts\ThryEditor\Editor\Presets.cs:679 
-  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
-  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <27124aa0e30a41659b903b822b959bc7>:0 
-   --- End of inner exception stack trace ---
-  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <27124aa0e30a41659b903b822b959bc7>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <27124aa0e30a41659b903b822b959bc7>:0 
-  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <80a8ce1980c648dca8e68f0d8aa3b930>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-(wrapper dynamic-method) UnityEngine.Debug:UnityEngine.Debug.LogError_Patch1 (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
-
 Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
@@ -179,47 +157,47 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  2.056 seconds
-Domain Reload Profiling: 2651ms
-	BeginReloadAssembly (144ms)
+- Finished resetting the current domain, in  1.394 seconds
+Domain Reload Profiling: 1816ms
+	BeginReloadAssembly (98ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (3ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (27ms)
-	RebuildCommonClasses (30ms)
-	RebuildNativeTypeToScriptingClass (6ms)
-	initialDomainReloadingComplete (23ms)
-	LoadAllAssembliesAndSetupDomain (392ms)
-		LoadAssemblies (320ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (276ms)
+		LoadAssemblies (214ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (156ms)
-			TypeCache.Refresh (127ms)
-				TypeCache.ScanAssembly (103ms)
-			ScanForSourceGeneratedMonoScriptInfo (18ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (2056ms)
+		AnalyzeDomain (117ms)
+			TypeCache.Refresh (99ms)
+				TypeCache.ScanAssembly (85ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (1394ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1915ms)
+		SetupLoadedEditorAssemblies (1289ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (3ms)
+			InitializePlatformSupportModulesInManaged (4ms)
 			SetLoadedEditorAssemblies (4ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (67ms)
-			ProcessInitializeOnLoadAttributes (574ms)
-			ProcessInitializeOnLoadMethodAttributes (1264ms)
+			BeforeProcessingInitializeOnLoad (56ms)
+			ProcessInitializeOnLoadAttributes (507ms)
+			ProcessInitializeOnLoadMethodAttributes (717ms)
 			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 10.70 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.10 ms.
-Unloading 2888 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 1664 unused Assets / (2.2 MB). Loaded Objects now: 3380.
-Memory consumption went from 313.3 MB to 311.1 MB.
-Total: 17.537500 ms (FindLiveObjects: 0.564500 ms CreateObjectMapping: 0.144800 ms MarkObjects: 11.497100 ms  DeleteObjects: 5.327000 ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 14.34 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.14 ms.
+Unloading 2894 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1665 unused Assets / (2.7 MB). Loaded Objects now: 3386.
+Memory consumption went from 316.1 MB to 313.5 MB.
+Total: 15.954100 ms (FindLiveObjects: 0.776500 ms CreateObjectMapping: 0.271400 ms MarkObjects: 9.265300 ms  DeleteObjects: 5.634700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
@@ -235,40 +213,3 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-========================================================================
-Received Import Request.
-  Time since last request: 12125.796267 seconds.
-  path: Assets/Red Panda/Animation/Controllers/RP_Params.asset
-  artifactKey: Guid(368ba235ed523e048b98cfd48a251555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Red Panda/Animation/Controllers/RP_Params.asset using Guid(368ba235ed523e048b98cfd48a251555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a390f772b8b24e945bfc23cf1b54ac0') in 0.030462 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000103 seconds.
-  path: Assets/Red Panda/Animation/Controllers/PROPS.asset
-  artifactKey: Guid(1a68385456810d041aa5b20c0048f1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Red Panda/Animation/Controllers/PROPS.asset using Guid(1a68385456810d041aa5b20c0048f1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df3cb23e55d42d2f15fcf42ac37c3fb') in 0.019789 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 14
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Red Panda/Animation/Controllers/MENU.asset
-  artifactKey: Guid(d27c5c661b0ce2b4cb3190c2f46aa645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Red Panda/Animation/Controllers/MENU.asset using Guid(d27c5c661b0ce2b4cb3190c2f46aa645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f126c49935e1f8ee2194b64b11385105') in 0.020633 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 21
-========================================================================
-Received Import Request.
-  Time since last request: 0.000055 seconds.
-  path: Assets/Red Panda/Animation/Controllers/Body.asset
-  artifactKey: Guid(d25fd9153daea1d488dd696690881088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Red Panda/Animation/Controllers/Body.asset using Guid(d25fd9153daea1d488dd696690881088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1fc0f91eee3b0fef32faf031d9f4ce') in 0.003184 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
