@@ -36,3 +36,14 @@ MonoBehaviour:
     subParameters:
     - name: Erect
     labels: []
+  - name: Show Penis
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Show Cock
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Erect
+    labels: []

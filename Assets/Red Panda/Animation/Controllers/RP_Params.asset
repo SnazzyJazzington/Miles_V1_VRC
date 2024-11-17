@@ -66,11 +66,16 @@ MonoBehaviour:
     networkSynced: 1
   - name: Erect
     valueType: 1
-    saved: 0
+    saved: 1
     defaultValue: 0
     networkSynced: 1
   - name: Throb
     valueType: 2
-    saved: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Show Cock
+    valueType: 2
+    saved: 1
     defaultValue: 0
     networkSynced: 1
