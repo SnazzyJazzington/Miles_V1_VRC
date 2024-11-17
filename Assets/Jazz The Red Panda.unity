@@ -685,6 +685,80 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1567113448}
   m_SourcePrefab: {fileID: 100100000, guid: cc0df63baba7ad14fb45451f69e60377, type: 3}
+--- !u!1001 &311335116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 330233586}
+    m_Modifications:
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227330909385755638, guid: 9f8fef6a5494d444c9165fb462015da2,
+        type: 3}
+      propertyPath: m_Name
+      value: GogoLoco All (VRCFury)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f8fef6a5494d444c9165fb462015da2, type: 3}
+--- !u!4 &311335117 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1227330909385755637, guid: 9f8fef6a5494d444c9165fb462015da2,
+    type: 3}
+  m_PrefabInstance: {fileID: 311335116}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &330233582 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 463e0ae840d49884f9c52ae1c96e0911,
@@ -705,10 +779,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: 
+  blueprintId: avtr_8f8bedd3-320f-474d-8cae-8f2e05c91174
   contentType: 0
   assetBundleUnityVersion: 
-  fallbackStatus: 0
+  fallbackStatus: 1
 --- !u!114 &330233584
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -747,7 +821,7 @@ MonoBehaviour:
   - ih
   - oh
   - ou
-  unityVersion: 
+  unityVersion: 2022.3.22f1
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   networkIDs: []
@@ -870,7 +944,77 @@ MonoBehaviour:
     mask: {fileID: 0}
     isDefault: 1
   AnimationPreset: {fileID: 0}
-  animationHashSet: []
+  animationHashSet:
+  - hash: 577495401
+    name: Face Clear
+  - hash: -1963515926
+    name: Fist
+  - hash: -1368897710
+    name: Point
+  - hash: 99779634
+    name: Open
+  - hash: 282634289
+    name: Peace
+  - hash: 935782528
+    name: RockNRoll
+  - hash: 420425210
+    name: Gun
+  - hash: 1949755150
+    name: Thumbs up
+  - hash: 2108076675
+    name: Idle
+  - hash: -998029940
+    name: Peace
+  - hash: 2050206447
+    name: Point
+  - hash: 297357552
+    name: Gun
+  - hash: -449848495
+    name: Open
+  - hash: -1652822560
+    name: Idle
+  - hash: 1781153929
+    name: Fist
+  - hash: -488267544
+    name: Thumbs up
+  - hash: -1592414362
+    name: RockNRoll
+  - hash: 1482701473
+    name: MMD On
+  - hash: 528700076
+    name: MMD Off
+  - hash: -510033676
+    name: Top On
+  - hash: 70979181
+    name: Top Off
+  - hash: 1288483823
+    name: Jacket Off
+  - hash: -1542305453
+    name: Jacket On
+  - hash: 1927264222
+    name: Shorts On
+  - hash: -552369780
+    name: Shorts Off
+  - hash: -374083364
+    name: Panties On
+  - hash: -802073325
+    name: Panites Off
+  - hash: 1344931406
+    name: Gloves Off
+  - hash: 784763394
+    name: Gloves On
+  - hash: 1678091337
+    name: Boots On
+  - hash: -1318167176
+    name: Boots Off
+  - hash: 418847417
+    name: Big Ass
+  - hash: 1437899149
+    name: Erect
+  - hash: 1104821530
+    name: Idle
+  - hash: -1301526843
+    name: Throb
   autoFootsteps: 1
   autoLocomotion: 1
   collider_head:
@@ -5157,6 +5301,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1922096979}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 463e0ae840d49884f9c52ae1c96e0911,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 311335117}
     - targetCorrespondingSourceObject: {fileID: 3742407835892290726, guid: 463e0ae840d49884f9c52ae1c96e0911,
         type: 3}
       insertIndex: -1

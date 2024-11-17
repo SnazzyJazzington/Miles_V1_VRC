@@ -245,3 +245,91 @@ Received Import Request.
 Start importing Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx using Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2922b5954115265ebcd859fcfe196d') in 0.212790 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 591
+========================================================================
+Received Import Request.
+  Time since last request: 860.952755 seconds.
+  path: Assets/Red Panda/EAR.L.fbx
+  artifactKey: Guid(3838aa1a846dfd041b4c18414364a432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/EAR.L.fbx using Guid(3838aa1a846dfd041b4c18414364a432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5918dc6ab46f4425e239887dc33e922c') in 0.025768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 1.608083 seconds.
+  path: Assets/Red Panda/EAR.L.fbx
+  artifactKey: Guid(3838aa1a846dfd041b4c18414364a432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/EAR.L.fbx using Guid(3838aa1a846dfd041b4c18414364a432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4434ce3657af1ba7acd54a44438021b') in 0.018259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx
+  artifactKey: Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx using Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2844c35d5850cfb3ee26bd85fa9c83') in 0.081949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 591
+========================================================================
+Received Import Request.
+  Time since last request: 3.428014 seconds.
+  path: Assets/Red Panda/red_panda_2_Body_BaseMap.png
+  artifactKey: Guid(8517db6d5abe26f4f9156346e74356d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/red_panda_2_Body_BaseMap.png using Guid(8517db6d5abe26f4f9156346e74356d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f992623da1eb4ef3e53bccb3bc1f643') in 0.024124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.519744 seconds.
+  path: Assets/Red Panda/red_panda_2_Body_BaseMap.png
+  artifactKey: Guid(8517db6d5abe26f4f9156346e74356d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/red_panda_2_Body_BaseMap.png using Guid(8517db6d5abe26f4f9156346e74356d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca83ec7d8f6d16fb13f2e433f872e0c8') in 0.014655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.85 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.11 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (2.9 MB). Loaded Objects now: 3434.
+Memory consumption went from 149.5 MB to 146.6 MB.
+Total: 24.870800 ms (FindLiveObjects: 0.258800 ms CreateObjectMapping: 0.072100 ms MarkObjects: 24.006300 ms  DeleteObjects: 0.532100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.97 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (2.9 MB). Loaded Objects now: 3434.
+Memory consumption went from 149.8 MB to 146.8 MB.
+Total: 7.506600 ms (FindLiveObjects: 0.276600 ms CreateObjectMapping: 0.061300 ms MarkObjects: 5.895200 ms  DeleteObjects: 1.271100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 

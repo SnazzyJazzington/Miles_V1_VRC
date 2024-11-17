@@ -221,3 +221,107 @@ Received Import Request.
 Start importing Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx using Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311a966f0ed3ef27f480063549ac403a') in 0.217398 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 591
+========================================================================
+Received Import Request.
+  Time since last request: 2003.240239 seconds.
+  path: Assets/Red Panda/EAR.R.fbx
+  artifactKey: Guid(b6966ea77f8b2644499914102f37b86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/EAR.R.fbx using Guid(b6966ea77f8b2644499914102f37b86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e917c850cb9f05a70ee88a620b79bb4') in 0.024448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx
+  artifactKey: Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx using Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2fe668b2e4af87d66f3555531e6b87') in 0.120253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 591
+========================================================================
+Received Import Request.
+  Time since last request: 1.484237 seconds.
+  path: Assets/Red Panda/EAR.R.fbx
+  artifactKey: Guid(b6966ea77f8b2644499914102f37b86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/EAR.R.fbx using Guid(b6966ea77f8b2644499914102f37b86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a007aa5d377c6beaa6fc78c524082779') in 0.019101 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 3.511949 seconds.
+  path: Assets/Red Panda/red_panda_2_Extras_Emissive.png
+  artifactKey: Guid(cb689404f04432d438111f1a04401686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/red_panda_2_Extras_Emissive.png using Guid(cb689404f04432d438111f1a04401686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a883038a87d591a5bc3d222f652085df') in 0.023501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx
+  artifactKey: Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx using Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd77f1bb1b2d3273199f67e1fbe0b48') in 0.083769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 591
+========================================================================
+Received Import Request.
+  Time since last request: 5.433861 seconds.
+  path: Assets/Red Panda/red_panda_2_Extras_Emissive.png
+  artifactKey: Guid(cb689404f04432d438111f1a04401686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/red_panda_2_Extras_Emissive.png using Guid(cb689404f04432d438111f1a04401686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa019b5950c15df978f3ea4408e6fbaf') in 0.014565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx
+  artifactKey: Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Red Panda/Red_Panda_HoundEdit.MoginEdit 1.fbx using Guid(463e0ae840d49884f9c52ae1c96e0911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ea2338f605b105c5146144049d7623') in 0.082019 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 591
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.11 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.17 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (2.9 MB). Loaded Objects now: 3434.
+Memory consumption went from 149.5 MB to 146.6 MB.
+Total: 9.469400 ms (FindLiveObjects: 0.522500 ms CreateObjectMapping: 0.090300 ms MarkObjects: 7.948000 ms  DeleteObjects: 0.894000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.37 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.10 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (2.9 MB). Loaded Objects now: 3434.
+Memory consumption went from 149.8 MB to 146.8 MB.
+Total: 6.622400 ms (FindLiveObjects: 0.615700 ms CreateObjectMapping: 0.117400 ms MarkObjects: 5.371700 ms  DeleteObjects: 0.514900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
