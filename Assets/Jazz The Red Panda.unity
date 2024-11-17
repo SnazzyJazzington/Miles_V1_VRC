@@ -1015,6 +1015,10 @@ MonoBehaviour:
     name: Idle
   - hash: -1301526843
     name: Throb
+  - hash: 488029569
+    name: Show Cock
+  - hash: 1314660403
+    name: No Cock
   autoFootsteps: 1
   autoLocomotion: 1
   collider_head:
