@@ -47,3 +47,14 @@ MonoBehaviour:
     subParameters:
     - name: Erect
     labels: []
+  - name: Tongue
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Tongue
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Erect
+    labels: []
